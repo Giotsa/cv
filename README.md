@@ -1,3 +1,3 @@
-# cv
+# Giorgi Tsaava
 
-Content here
+_Software engineer based in Tbilisi 🇬🇪_ <br>
