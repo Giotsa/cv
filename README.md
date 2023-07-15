@@ -12,7 +12,7 @@ Independent software development company creating interactive experiences in vir
   - **_Technologies used:_** Unity3D, URP, C#, FMOD, ShaderLab, HLSL.
 <br><br>
 
-## 💬 Languages
+## Languages
 
 🇺🇸 **English** <br>
 🇬🇪 **Georgian** <br>
