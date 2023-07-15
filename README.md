@@ -14,9 +14,9 @@ Independent software development company creating interactive experiences in vir
 
 ## 💬 Languages
 
-🇺🇸 **English**
-🇬🇪 **Georgian**
-🇷🇺 **Russian**
+🇺🇸 **English** <br>
+🇬🇪 **Georgian** <br>
+🇷🇺 **Russian** <br>
 
 ## Education
 **Bachelor of Computer Science** in Faculty of Automation and Information Systems<br>
